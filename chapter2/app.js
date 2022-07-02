@@ -47,11 +47,19 @@
 
 // alert('2を掛け続けて' + max + 'を超えるのに使った回数は' + count + '回です');
 
-let i;
-let num = 0;
+// let i;
+// let num = 0;
 
-for(i = 1; i < 11; i++){
-  num = num + i;
-}
+// for(i = 1; i < 11; i++){
+//   num = num + i;
+// }
 
-alert('1から10まで足した数は' + num + "です");
+// alert('1から10まで足した数は' + num + "です");
+
+alert(1 + 2);
+
+alert(3 - 1);
+
+alert(2 * 5);
+
+alert(6 / 3);
